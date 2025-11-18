@@ -305,7 +305,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Kombai](https://kombai.com/)**: AI tool for converting designs into production-ready UI code.
 - **[Deepsite](https://huggingface.co/spaces/enzostvs/deepsite)**: An AI platform that helps you build stunning websites, no code required.
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
-- **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.
 - **[Phorm.ai](https://phorm.ai/)**: AI-powered form and interface generation.
 - **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
 - **[Uizard](https://uizard.io/)**: AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
